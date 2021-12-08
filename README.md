@@ -15,9 +15,9 @@ git clone https://github.sydney.edu.au/jlin2133/5620-Banvas.git
 cd  5620-Banvas-master
 ```
 
-**Canvas**
+**Project introduction**
 
-Please visit canvas to download our zip file
+This is an intelligent educational tutoring system that Provides an online learning platform for kids who are study remotly from home becasue Covid 19 lockdown
 
 ## 3.Project setup(Front-end)
 
